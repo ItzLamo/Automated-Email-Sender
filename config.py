@@ -2,8 +2,8 @@ import smtplib
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = "1m.booster003@gmail.com"    # Replace with your email
-EMAIL_PASSWORD = "zfdv dfhs bfew pxrt"          # Replace with your app password
+EMAIL_ADDRESS = "your_email@gmail.com"    # Replace with your email
+EMAIL_PASSWORD = "app_key"          # Replace with your app password
 
 # GUI Theme
 THEME_COLOR = "#2B2B2B"
