@@ -1,0 +1,10 @@
+{
+  "Welcome": {
+    "subject": "Welcome {name}!",
+    "body": "\n        <h1>Welcome {name}!</h1>\n        <p>We're glad to have you on board.</p>\n        "
+  },
+  "Newsletter": {
+    "subject": "Monthly Newsletter",
+    "body": "\n        <h1>Hello {name}!</h1>\n        <p>Here's your monthly newsletter.</p>\n        "
+  }
+}
